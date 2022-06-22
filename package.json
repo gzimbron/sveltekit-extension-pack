@@ -10,8 +10,9 @@
 		"type": "git",
 		"url": "https://github.com/pptavozl/sveltekit-extension-pack"
 	},
+	"icon": "icon.png",
 	"description": "Extension pack for svelte and sveltekit development",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
