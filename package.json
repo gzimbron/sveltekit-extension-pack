@@ -1,7 +1,15 @@
 {
 	"name": "sveltekit-extension-pack",
 	"displayName": "Sveltekit Extension Pack",
-	"publisher": "GustavoZimbron",
+	"publisher": "ZimbronApps",
+	"author": {
+		"name": "Gustavo Zimbrón",
+		"email": "gustavo@zimbron.app"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pptavozl/sveltekit-extension-pack"
+	},
 	"description": "Extension pack for svelte and sveltekit development",
 	"version": "0.0.1",
 	"engines": {
