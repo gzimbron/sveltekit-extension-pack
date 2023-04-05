@@ -12,7 +12,7 @@
 	},
 	"icon": "icon.png",
 	"description": "Extension pack for svelte and sveltekit development",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
@@ -38,6 +38,7 @@
 		"Tyriar.lorem-ipsum",
 		"ue.alphabetical-sorter",
 		"usernamehw.errorlens",
-		"xabikos.JavaScriptSnippets"
+		"xabikos.JavaScriptSnippets",
+		"MrAmericanMike.sveltekitsnippets"
 	]
 }
