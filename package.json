@@ -12,7 +12,7 @@
 	},
 	"icon": "icon.png",
 	"description": "Extension pack for svelte and sveltekit development",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
@@ -21,7 +21,6 @@
 	],
 	"extensionPack": [
 		"ardenivanov.svelte-intellisense",
-		"bierner.color-info",
 		"christian-kohler.npm-intellisense",
 		"christian-kohler.path-intellisense",
 		"dbaeumer.vscode-eslint",
@@ -30,7 +29,6 @@
 		"formulahendry.auto-complete-tag",
 		"formulahendry.auto-rename-tag",
 		"mikestead.dotenv",
-		"oderwat.indent-rainbow",
 		"pivaszbs.svelte-autoimport",
 		"PKief.material-icon-theme",
 		"svelte.svelte-vscode",
