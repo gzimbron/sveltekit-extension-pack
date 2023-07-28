@@ -6,13 +6,16 @@
 		"name": "Gustavo Zimbrón",
 		"email": "gustavo@zimbron.app"
 	},
+	"scripts": {
+		"publish": "vsce publish"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pptavozl/sveltekit-extension-pack"
 	},
 	"icon": "icon.png",
 	"description": "Extension pack for svelte and sveltekit development",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.68.0"
 	},
@@ -26,15 +29,8 @@
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
 		"fivethree.vscode-svelte-snippets",
-		"formulahendry.auto-complete-tag",
-		"formulahendry.auto-rename-tag",
 		"mikestead.dotenv",
-		"pivaszbs.svelte-autoimport",
-		"PKief.material-icon-theme",
 		"svelte.svelte-vscode",
-		"syler.sass-indented",
-		"Tyriar.lorem-ipsum",
-		"ue.alphabetical-sorter",
 		"usernamehw.errorlens",
 		"xabikos.JavaScriptSnippets",
 		"MrAmericanMike.sveltekitsnippets"
