@@ -7,7 +7,7 @@
 		"email": "gustavo@zimbron.app"
 	},
 	"scripts": {
-		"publish": "vsce publish"
+		"publish": "vsce package && vsce publish"
 	},
 	"repository": {
 		"type": "git",
